@@ -1,0 +1,8 @@
+Package: cloudburst
+Title: Cloudburst Experimental Toolkit
+Version: 0.0.0.9000
+Description: Temporary structure for roxygen2 documentation.
+Author: You
+Maintainer: You <you@example.com>
+License: MIT
+RoxygenNote: 7.3.2
